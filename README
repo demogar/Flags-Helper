@@ -1,8 +1,7 @@
 Flags Helper
 ============
-Version: v0.1
+Version: v0.2
 Author: Demostenes Garcia (me@demogar.com / www.demogar.com)
-
 
 
 DESCRIPTION
@@ -11,6 +10,16 @@ This is a CodeIgniter Helper. It makes a dropdown select with a list of Countrie
 It's a perfect solution if you need a list of countries usable with the famfamfam flags.
 
 I also added the fam fam fam flags in gif format.
+
+USAGE
+-----
+It's quite simple:
+
+	# We load the helper
+	$this->load->helper('flags');
+	
+	# Then we echo the dropdown. The first value is the name of the dropdown and the second value is the default value.
+	echo select_countries('flags', 'pa');
 
 ABOUT FAM FAM FAM ICONS
 -----------------------
