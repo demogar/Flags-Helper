@@ -1,7 +1,7 @@
 h2. Flags Helper
 
 *Version:* v0.2
-*Author:* Demostenes Garcia (me@demogar.com / www.demogar.com)
+*Author:* Demostenes Garcia (me [at] demogar.com / "www.demogar.com(Visit site)":http://www.demogar.com)
 
 
 h2. DESCRIPTION
