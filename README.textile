@@ -14,11 +14,11 @@ I also added the fam fam fam flags in gif format.
 h2. USAGE
 
 It's quite simple:
-@	# We load the helper
+	# We load the helper
 	$this->load->helper('flags');
 	
 	# Then we echo the dropdown. The first value is the name of the dropdown and the second value is the default value.
-	echo select_countries('flags', 'pa'); @
+	echo select_countries('flags', 'pa');
 
 h2. ABOUT FAM FAM FAM ICONS
 
