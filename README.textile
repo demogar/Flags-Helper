@@ -1,15 +1,18 @@
 h2. Flags Helper
+
 *Version:* v0.2
 *Author:* Demostenes Garcia (me@demogar.com / www.demogar.com)
 
 
 h2. DESCRIPTION
+
 This is a *CodeIgniter Helper*. It makes a dropdown select with a list of Countries. The value of the country is determined by the 'ISO 3166-1 alpha-2' codes.
 It's a perfect solution if you need a list of countries usable with the famfamfam flags.
 
 I also added the fam fam fam flags in gif format.
 
 h2. USAGE
+
 It's quite simple:
 @	# We load the helper
 	$this->load->helper('flags');
@@ -18,12 +21,14 @@ It's quite simple:
 	echo select_countries('flags', 'pa'); @
 
 h2. ABOUT FAM FAM FAM ICONS
+
 famfamfam.com is the website of Mark James, a web developer from Birmingham, UK. These icons are public domain, and as such are free for any use (attribution appreciated but not required).
 If you find these icons useful, please donate via paypal to mjames@gmail.com (or click the donate button available at http://www.famfamfam.com/lab/icons/silk)
 Contact: mjames@gmail.com
 
 
 h2. MORE
+
 * ISO 3166-1 alpha-2 codes:
 ** http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 * Fam fam fam Flag icons:
