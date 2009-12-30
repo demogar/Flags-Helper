@@ -1,4 +1,4 @@
-h1. Flags Helper
+h2. Flags Helper
 *Version:* v0.2
 *Author:* Demostenes Garcia (me@demogar.com / www.demogar.com)
 
